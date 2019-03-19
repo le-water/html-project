@@ -1,0 +1,3 @@
+Here are the .jar file that you need to extract.
+
+Go to the _setup.md if you don't know how to extract the jar files.
