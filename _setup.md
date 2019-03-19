@@ -2,7 +2,7 @@ Here is the setup for the html-tool
 
 1. If on Windows, create a folder in the Program Files section titled "_httmmep1198"
 
-If on Mac, create a folder in the Desktop section titled "_httmmep1198
+If on Mac, create a folder in the Desktop section titled "_httmmep1198"
 
 Sorry, but I haven't had time to optimize this for linux =[
 
