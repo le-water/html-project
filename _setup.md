@@ -6,6 +6,10 @@ If on Mac, create a folder in the Desktop section titled "_httmmep1198
 
 2. Drag the html-project folder into the _httmmep1198 folder
 
+3. If on Windows, click the Start.cmd file
+
+If on Mac, click the Start.command file
+
 3. Get a web provider 
 
 *NOTE: we have our own free web provider tool. The link is in the _wp4553.md file
