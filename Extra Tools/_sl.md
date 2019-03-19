@@ -43,7 +43,7 @@ There are several ways to get shortened links. I will explain two of them.
 
 -Underneath title type "description:" and put a description that you would like
 
--you should now be able to visit your site from https://<username>.github.io/<reponame>
+-you should now be able to visit your site from https://(username).github.io/(reponame)
   
 Here is an example what your _config.yml should look like: https://ibb.co/fxKRHYY
 
@@ -56,7 +56,7 @@ Here is what your settings page should look like: https://ibb.co/Y36xSSf
 
 2. bitly. Here is how to get a shortened link with bitly:
 
--go to bitly.com
+-go to https://bitly.com
 
 -click on the text box
 
