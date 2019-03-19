@@ -1,6 +1,8 @@
 Here is the setup for the html-tool
 
-1. create a folder on the Program Files section titled "_httmmep1198"
+1. If on Windows, create a folder in the Program Files section titled "_httmmep1198"
+
+If on Mac, create a folder in the Desktop section titled "_httmmep1198
 
 2. Drag the html-project folder into the _httmmep1198 folder
 
@@ -14,14 +16,6 @@ and newsletter
 *NOTE: We explain how to get shortened links in the _sl.md
 
 *NOTE: We explain how to do an email newsletter in the _ien776.md
-
-5. Go to https://extract.me and extract the hhs77378465.jar file
-
-6. If the hhs77378465 folder doesn't automatically go into the _httmmep1198 folder then drag it into there
-
-7. Go to https://extract.me and extract the htmlctc.jar file
-
-8. Again, if the folder doesn't automatically go into the _httmmep1198 folder then drag it into there
 
 
 
