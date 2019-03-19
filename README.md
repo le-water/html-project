@@ -7,7 +7,9 @@ Go to the _ _setup.md_ for info on the setup of this.
 
 # what you will need
 -.zip file converter
+
 -file compressor
+
 -website provider that allows plugins
 
 # contact
