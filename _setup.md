@@ -15,13 +15,9 @@ and newsletter
 
 *NOTE: We explain how to do an email newsletter in the _ien776.md
 
-5. Go to https://extract.me and extract the setup.jar file
+5. Go to https://extract.me and extract the htmlctc.jar file
 
-6. If the setup folder doesn't automatically go into the _httmmep1198 folder then drag it into there
-
-7. Go to https://extract.me and extract the htmlctc.jar file
-
-8. Again, if the folder doesn't automatically go into the _httmmep1198 folder then drag it into there
+6. Again, if the folder doesn't automatically go into the _httmmep1198 folder then drag it into there
 
 
 
