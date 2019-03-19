@@ -14,3 +14,6 @@ Go to the _ _setup.md_ for info on the setup of this.
 
 # contact
 please contact codesshift976@gmail.com if you need help
+
+# versions
+Go to https://github.com/le-water/html-project/releases for the completed versions.
