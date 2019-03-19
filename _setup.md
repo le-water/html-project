@@ -4,6 +4,8 @@ Here is the setup for the html-tool
 
 If on Mac, create a folder in the Desktop section titled "_httmmep1198
 
+Sorry, but I haven't had time to optimize this for linux =[
+
 2. Drag the html-project folder into the _httmmep1198 folder
 
 3. If on Windows, click the Start.cmd file
