@@ -8,9 +8,9 @@ Sorry, but I haven't had time to optimize this for linux =[
 
 2. Drag the html-project folder into the _httmmep1198 folder
 
-3. If on Windows, click the Start.cmd file
+3. If on Windows, click the Windows.cmd file
 
-If on Mac, click the Start.command file
+If on Mac, click the Mac.command file
 
 3. Get a web provider 
 
