@@ -26,3 +26,4 @@ and newsletter
 
 
 *NOTE: THIS PRODUCT IS NOT FINISHED!!!
+Go to https://github.com/le-water/html-project/releases for the finished versions.
