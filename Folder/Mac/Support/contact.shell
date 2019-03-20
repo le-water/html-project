@@ -1,3 +1,0 @@
-#!/bin/bash
-firefox "$1"
-./urlopener "mailto:codesshift976@gmail.com"
