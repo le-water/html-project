@@ -1,1 +1,1 @@
-start mailto:codesshift976@gmail.com
+start "mailto:codesshift976@gmail.com"
