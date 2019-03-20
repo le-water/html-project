@@ -4,7 +4,7 @@ Hello. In this page I will show you how to create downloadable links!
 
 2. Create a new repo
 
-NOTE: Make sure it stays public but tell people in the description of the repo that it isn't for their use
+NOTE: Make sure it stays public but tell people in the description of the repo that it isn't for their us
 
 NOTE: Don't include a readme, license, or gitignore.
 
